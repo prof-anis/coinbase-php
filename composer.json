@@ -1,5 +1,5 @@
 {
-    "name": "busybrain/coinbase",
+    "name": "coinbase/coinbase",
     "description": "Coinbase API library",
     "keywords": [ "bitcoin", "coinbase" ],
     "homepage": "http://coinbase.com",
